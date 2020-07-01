@@ -14,6 +14,10 @@ h3{
 h4{
     font-size: 30px;
 }
+h6{
+    font-size: 30px;
+}
+
 
 .name-light{
     color: rgb(248, 6, 99);
@@ -115,18 +119,18 @@ button{
     font-size: 30px;
     
 }
-h5:hover{
+h6:hover{
     color: rgb(253, 4, 4);
     
 }
-section img{
-    width: 100%;
+.five-banner{
+    background-image: url("image/3.png");
 }
     
 
     
 
-}
+
 
 
 
