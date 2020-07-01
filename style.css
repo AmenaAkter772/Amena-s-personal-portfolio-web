@@ -11,6 +11,9 @@ h2{
 h3{
     font-size: 50px;
 }
+h4{
+    font-size: 30px;
+}
 
 .name-light{
     color: rgb(248, 6, 99);
@@ -99,6 +102,30 @@ section{
 
 footer{
     text-align: center;
+}
+button{
+    background-color: cyan;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 10px 40px;
+    font-size: 15px;
+
+}
+#tomi-ami{
+    font-size: 30px;
+    
+}
+h5:hover{
+    color: rgb(253, 4, 4);
+    
+}
+section img{
+    width: 100%;
+}
+    
+
+    
+
 }
 
 
